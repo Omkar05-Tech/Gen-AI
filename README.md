@@ -1,1 +1,1 @@
-# Gen-AI-Assignments-
+# Gen-AI Assignments
